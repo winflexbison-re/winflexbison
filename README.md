@@ -35,7 +35,7 @@ The release page includes the full Changelog but you may also see the [changelog
 
 ## HowTo
 
-You may use win_flex and win_bison directly on the command line or [use them via CustomBuildRules in VisualStudio](custom_build_rules/README.md).
+You may use win_flex and win_bison directly on the command line.
 
 
 ## Example flex/bison files
